@@ -1,7 +1,7 @@
 """
 Created on April 13 2021
 
-@author: Caleb Sanders 
+@author: Caleb Sanders & Ignacio Varela
 
 Utility functions. 
 """
