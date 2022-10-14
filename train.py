@@ -1,7 +1,7 @@
 """
 Created on April 15 2021
 
-@author: Caleb Sanders
+@author: Caleb Sanders & Ignacio Varela
 
 Optimize a QNADE network to the ground state, solve for the ground state energy.    
 """
